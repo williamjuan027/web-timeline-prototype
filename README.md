@@ -2,8 +2,9 @@
 Timeline static website prototype
 
 ## Screenshots
-:-------------------------:|:-------------------------:
-![Desktop Version](/screenshots/web-timeline-desktop.png?raw=true "Desktop") | ![Mobile Version](/screenshots/web-timeline-mobile.png?raw=true "Mobile")
+<img src="/screenshots/web-timeline-desktop.png?raw=true" width="150"><img src="/screenshots/web-timeline-mobile.png?raw=true" width="150">
+![Desktop Version](/screenshots/web-timeline-desktop.png?raw=true "Desktop")
+![Mobile Version](/screenshots/web-timeline-mobile.png?raw=true "Mobile")
 
 ## Built With
 - [jQuery](https://jquery.com/)
