@@ -4,7 +4,7 @@ Timeline static website prototype
 ## Screenshots
 |Desktop|Mobile|
 | ------------- | ------------- |
-|<img src="/screenshots/web-timeline-mobile.png?raw=true" width="250">|<img src="/screenshots/web-timeline-desktop.png?raw=true" width="250">|
+|<img src="/screenshots/web-timeline-mobile.png?raw=true" width="400">|<img src="/screenshots/web-timeline-desktop.png?raw=true" width="250">|
 
 ## Built With
 - [jQuery](https://jquery.com/)
